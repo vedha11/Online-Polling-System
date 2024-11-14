@@ -1,0 +1,33 @@
+-- OnlinePollingSystem
+Drop database if exists OnlinePollingSystem;
+create database OnlinePollingSystem;
+use OnlinePollingSystem;
+
+-- Voter
+create table Voter(
+voterId varchar(25) primary key,
+voterName varchar(25) not null,
+dob date not null,
+age int not null,
+loginId varchar(25) not null,
+passWord varchar(25) not null,
+address varchar(50) not null,
+district varchar(25) not null,
+mobileNumber bigint(20) not null
+check(age>=18));
+
+-- Nominee
+create table Nominee(
+nomineeId varchar(25) primary key,
+nomineeName varchar(25) not null,
+constitution varchar(30) not null,
+district varchar(50) not null,
+symbol varchar(50) not null,
+address varchar(100) not null);
+
+-- Vote
+create table Vote(
+voteId varchar(20) primary key,
+voterId varchar(20) references Voter(voterId),
+nomineeId varchar(20) references Nominee(nomineeId),
+votedDate date);

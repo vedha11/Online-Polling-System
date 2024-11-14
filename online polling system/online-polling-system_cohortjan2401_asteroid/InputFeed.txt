@@ -1,0 +1,80 @@
+----Nominee Inputs----
+
+<---North City--->
+
+NOM001: Emma Thompson: Central District: North City: Eagle: 123 Oak Street
+NOM002: Ryan Patel: Eastern Constituency: North City: Lotus: 456 Pine Avenue
+NOM003: Sophia Wilson: Northern Zone: North City: Sunflower: 789 Maple Road
+
+<---South City--->
+
+NOM004: Adam Johnson: Southern District: South City: Mountain: 123 Hillside Avenue
+NOM005: Priya Sharma: Coastal Constituency: South City: Wave: 456 Beachfront Drive
+NOM006: Alex Brown: Suburban Zone: South City: Tree: 789 Garden Lane
+
+
+<---West City-->
+
+NOM007: Emily White: Western Region: West City: Torch: 123 Sunset Boulevard
+NOM008: Rohan Patel: Hillside Constituency: West City: Lion: 456 Hilltop Avenue
+NOM009: Mia Garcia: Riverside Zone: West City: Boat: 789 Riverbank Street
+
+<---East City--->
+
+NOM010: Jacob Anderson: Eastern Constituency: East City: Star: 123 Sunrise Avenue
+NOM011: Emma Johnson: Coastal Area: East City: Wave: 456 Ocean View Drive
+NOM012: Aiden Patel: Suburban Zone: East City: Tree: 789 Park Lane
+
+-----Voter Inputs-----
+
+<--East City--->
+
+Alice Smith:15/05/1990:31:alice123:pass123:123 Main Street:East City:1234567890
+Bob Johnson:20/10/1985:36:bob789:secret789:456 Elm Avenue:East City:9876543210
+Claire Patel:25/03/1995:26:claire456:p@ssw0rd:789 Oak Boulevard:East City:3456789012
+David Brown:10/08/1980:41:david321:abc@123:321 Pine Road:East City:7890123456
+Emily Wilson:05/12/1992:28:emily567:qwerty:567 Cedar Lane:East City:2345678901
+Ethan Miller:18/09/1988:33:ethan789:pass456:890 Elm Street:East City:6789012345
+Sophia Johnson:30/06/1994:27:sophia123:abc123:234 Oak Avenue:East City:8901234567
+Noah Brown:08/04/1987:34:noah456:pass789:456 Maple Road:East City:5678901234
+Olivia Patel:12/11/1998:23:olivia789:pass456:789 Pine Street:East City:3456789123
+James Smith:25/03/1990:31:james567:password1:678 Cedar Lane:East City:4567890123
+
+<---West City--->
+
+Sarah:25/09/1993:28:sarah_west123:pass123:321 West Street:West City:1234567890
+Michael:14/02/1982:39:michael_west789:secret789:654 West Avenue:West City:9876543210
+Emma:07/11/1997:24:emma_west456:p@ssw0rd:789 West Boulevard:West City:3456789012
+William:19/06/1989:32:william_west321:abc@123:987 West Road:West City:7890123456
+Olivia:02/04/1990:31:olivia_west567:qwerty:543 West Lane:West City:2345678901
+Ethan:18/12/1995:26:ethan_west789:pass456:876 West Drive:West City:6789012345
+Ava:30/08/1994:27:ava_west123:abc123:234 West Avenue:West City:8901234567
+James:05/03/1986:35:james_west456:pass789:456 West Road:West City:5678901234
+Sophia:12/10/1998:23:sophia_west789:pass456:789 West Street:West City:3456789123
+Benjamin:22/07/1991:30:benjamin_west567:password1:678 West Lane:West City:4567890123
+
+<---South City--->
+
+Emma:15/05/1988:33:emma_south123:pass123:123 South Street:South City:1234567890
+Liam:20/10/1990:30:liam_south789:secret789:456 South Avenue:South City:9876543210
+Ava:25/03/1995:26:ava_south456:p@ssw0rd:789 South Boulevard:South City:3456789012
+Noah:10/08/1992:29:noah_south321:abc@123:321 South Road:South City:7890123456
+Mia:05/12/1985:36:mia_south567:qwerty:567 South Lane:South City:2345678901
+Sophia:18/09/1997:24:sophia_south789:pass456:890 South Drive:South City:6789012345
+Oliver:30/06/1989:32:oliver_south123:abc123:234 South Avenue:South City:8901234567
+Amelia:08/04/1994:27:amelia_south456:pass789:456 South Road:South City:5678901234
+William:12/11/1991:30:william_south789:pass456:789 South Street:South City:3456789123
+Charlotte:25/03/1998:23:charlotte_south567:password1:678 South Lane:South City:4567890123
+
+<---North City-->
+
+Alice North:15/05/1990:31:alice_north123:pass123:123 North Street:North City:1234567890
+Bob Johnson:20/10/1985:36:bob_north789:secret789:456 North Avenue:North City:9876543210
+Claire Patel:25/03/1995:26:claire_north456:p@ssw0rd:789 North Boulevard:North City:3456789012
+David Brown:10/08/1980:41:david_north321:abc@123:321 North Road:North City:7890123456
+Emily Wilson:05/12/1992:28:emily_north567:qwerty:567 North Lane:North City:2345678901
+Ethan Miller:18/09/1988:33:ethan_north789:pass456:890 North Drive:North City:6789012345
+Sophia Johnson:30/06/1994:27:sophia_north123:abc123:234 North Avenue:North City:8901234567
+Noah Brown:08/04/1987:34:noah_north456:pass789:456 North Road:North City:5678901234
+Olivia Patel:12/11/1998:23:olivia_north789:pass456:789 North Street:North City:3456789123
+James Smith:25/03/1990:31:james_north567:password1:678 North Lane:North City:4567890123
